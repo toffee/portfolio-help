@@ -20,7 +20,7 @@ Abbildung: Portfolio Performance Komponenten und ihre Beziehungen. {class=pp-fig
 Im Zentrum des Systems stehen die Transaktionen (Alle Transaktionen). In diesem Beispiel sind sechs Transaktionen enthalten.
 
 1. Am 1. März 2024 wurde eine Einzahlung von 300 EUR auf das EUR-Verrechnungskonto von Broker-A getätigt, um Aktien zu kaufen.
-2. Später am selben Tag wurden 10 Aktien der Aktie-1 zu 10 EUR pro Aktie gekauft. Nach Abzug von 5 EUR für Gebühren und Steuern wurden dem EUR-Verrechnungskonto von Broker-A 195 EUR belastet, sodass ein Saldo von 145 EUR verblieb.
+2. Später am selben Tag wurden 10 Aktien der Aktie-1 zu 10 EUR pro Aktie gekauft. Nach Abzug von 5 EUR für Gebühren und Steuern wurden dem EUR-Verrechnungskonto von Broker-A 105 EUR belastet, sodass ein Saldo von 195 EUR verblieb.
 3. Am 3. März wurden 75 EUR zu einem Wechselkurs von 0,9248 USD/EUR in USD umgetauscht, was 81,10 USD ergab. Der Saldo des EUR-Kontos von Broker-A sank auf 120 EUR, während Broker-A (USD) 81,10 USD hielt.
 4. Über das USD-Verrechnungskonto wurden 5 Aktien der Aktie-2 zu 15 USD pro Aktie gekauft, was einem Netto-Transaktionswert von 78 USD entspricht. Der Saldo von Broker-A (USD) sank auf 3,10 USD.
 5. Am 4. März wurde eine Dividende von 1,5 EUR pro Aktie gezahlt. Nach Abzug von 7 EUR für Gebühren und Steuern erhöhte sich der Saldo von Broker-A (EUR) um 15 EUR auf 128 EUR.
